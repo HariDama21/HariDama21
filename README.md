@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋🏻 Hi, my name is Hari<br><br>🎓 Soon to be grad with a Bachelor's of Technology in Artificial Intelligence (2024) and Completed Diploma in Electronics and Communication Engineering<br><br>🌇 Andhra Pradesh Native, with a passion for creating Photographs and learning technology that will upskill my knowledge <br><br>✨ Want to be a developer, where I can deploy new things based on my knowledge with team coordination.<br><br>💻 In my free time, you can find me learning and implementing new  things in the real world<br><br>💪🏻 #Python_Programmer #R
+👋🏻 Hi, my name is Hari<br><br>🎓 Soon to be grad with a Bachelor's of Technology in Artificial Intelligence (2024) and Completed Diploma in Electronics and Communication Engineering<br><br>🌇 Andhra Pradesh Native, with a passion for creating Photographs and learning technology that will upskill my knowledge <br><br>✨ Want to be a developer, where I can deploy new things based on my knowledge with team coordination.<br><br>💻 In my free time, you can find me learning and implementing new  things in the real world<br><br>💪🏻 #Java_Programmer #Python #R
 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h3devx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/iamharidama/]) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harisetty21) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/h3devx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h3devx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/iamharidama/]) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@HariDevX) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/h3devx) 
 
 
 
